@@ -1,0 +1,33 @@
+Siamese, Snowball
+Siamese, Whiskers
+Siamese, Luna
+Maine Coon, Simba
+Maine Coon, Bella
+Persian, Max
+Persian, Chloe
+Persian, Oliver
+Ragdoll, Lucy
+Ragdoll, Leo
+Bengal, Tiger
+Bengal, Nala
+Scottish Fold, Charlie
+Scottish Fold, Sophie
+Sphynx, Gizmo
+Abyssinian, Luna
+Abyssinian, Milo
+British Shorthair, Lily
+British Shorthair, Oscar
+Birman, Daisy
+Russian Blue, Felix
+Norwegian Forest, Bella
+Savannah, Loki
+Savannah, Luna
+Manx, Oliver
+Manx, Luna
+American Shorthair, Luna
+American Shorthair, Simba
+Himalayan, Luna
+Himalayan, Oliver
+Exotic Shorthair, Luna
+Exotic Shorthair, Max
+Turkish Angora,

@@ -1,0 +1,23 @@
+1, Siamese
+2, Maine Coon
+3, Persian
+4, Ragdoll
+5, Bengal
+6, Scottish Fold
+7, Sphynx
+8, Abyssinian
+9, British Shorthair
+10, Birman
+11, Russian Blue
+12, Norwegian Forest
+13, Savannah
+14, Manx
+15, American Shorthair
+16, Himalayan
+17, Exotic Shorthair
+18, Turkish Angora
+19, Devon Rex
+20, Cornish Rex
+21, Siamese-Balinese
+21, Siamese-Javanese
+21, Thai
